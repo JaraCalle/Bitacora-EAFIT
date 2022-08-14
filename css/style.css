@@ -527,3 +527,23 @@ p {
 .lista-1 {
 	font-size: 1.2em;
 }
+
+.titulo-obj {
+	text-align: center;
+}
+
+.image-container-1 {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.obj-img {
+	height: 20rem;
+	border-radius: 30%;
+}
+
+.thanos {
+	height: 10rem;
+	width: 10rem;
+}
